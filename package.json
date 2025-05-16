@@ -43,6 +43,9 @@
         "uuid": "3"
     },
     "engineStrict": true,
+    "overrides": {
+        "nel": "https://github.com/e2b-dev/nel.git#wip"
+    },
     "scripts": {
         "doc": "python scripts/doc-build.py",
         "doc:publish": "node scripts/doc-publish.js gh-pages https://github.com/n-riesco/ijavascript",
