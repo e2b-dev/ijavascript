@@ -30,7 +30,9 @@
         "ijsnotebook": "bin/ijsnotebook.js"
     },
     "dependencies": {
-        "jp-kernel": "1 || 2"
+        "jp-kernel": "1 || 2",
+        "@babel/core": "^7.27.1",
+        "@babel/preset-typescript": "^7.27.1"
     },
     "devDependencies": {
         "debug": "2",
