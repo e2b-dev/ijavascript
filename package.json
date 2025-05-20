@@ -33,7 +33,7 @@
         "jp-kernel": "1 || 2",
         "@babel/core": "^7.27.1",
         "@babel/preset-typescript": "^7.27.1",
-        "nel": "https://github.com/e2b-dev/nel.git#wip"
+        "nel": "https://github.com/e2b-dev/nel.git"
     },
     "devDependencies": {
         "debug": "2",
